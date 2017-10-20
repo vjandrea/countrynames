@@ -1,0 +1,16 @@
+{
+  "name": "countrynames",
+  "version": "1.0.0",
+  "description": "Nearly every country on earth is named after one of four things (Quartz / Thu-Huong Ha)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Andrea Bergamasco",
+  "license": "ISC",
+  "dependencies": {
+    "d3": "^4.11.0",
+    "datamaps": "^0.5.8",
+    "topojson": "^3.0.2"
+  }
+}
