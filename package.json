@@ -9,8 +9,8 @@
   "author": "Andrea Bergamasco",
   "license": "ISC",
   "dependencies": {
-    "d3": "^4.11.0",
-    "datamaps": "^0.5.8",
-    "topojson": "^3.0.2"
+    "d3": "3.5.3",
+    "topojson": "1.6.9",
+    "datamaps": "^0.5.8"
   }
 }
